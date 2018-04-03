@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [stellar简介](chapter1.md)
+* [stellar basic](chapter1.md)
+* [stellar network overview](stellar-network-overview.md)
 
