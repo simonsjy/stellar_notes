@@ -1,3 +1,4 @@
 # My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+区块链底层技术stellar学习手记。包括但不限于研究stellar架构、源码和应用扩展。stellar官网：https://www.stellar.org/cn/
+
